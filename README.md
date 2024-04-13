@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noddy</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=A+17yo+boy+who+likes+programming+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=A+17yo+boy+who+likes+programming+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
