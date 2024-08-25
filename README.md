@@ -29,6 +29,7 @@
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=python&color=black&logo=python&logoColor=FFFFFF&label=" alt="python">
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MONGODB&color=black&logo=mongodb&logoColor=FFFFFF&label" alt = "python">
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TAILWIND%20CSS&color=black&logo=tailwindcss&logoColor=FFFFFF&label" alt="tailwind">
+ <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenGL&color=black&logo=opengl&logoColor=FFFFFF&label" alt="OpenGL">
 </p>
 
  <h1 align="center">💻 WORKSPACE </h1> 
