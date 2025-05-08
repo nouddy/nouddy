@@ -12,7 +12,7 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" /> 
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=000000&logo=bootstrap&logoColor=FFFFFF&label=" alt = "css" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=ReactJS&color=000000&logo=React&logoColor=FFFFFF&label=" alt = "React" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=000000&logo=Next.JS&logoColor=FFFFFF&label=" alt = "React" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=csharp&color=000000&logo=&logoColor=FFFFFF&label=" alt = "c#"/>
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=black&logo=PHP&logoColor=FFFFFF&label=" alt = "PHP" /> <br>
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=000000&logo=MySQL&logoColor=FFFFFF&label" alt = "mysql" /> 
